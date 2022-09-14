@@ -1,0 +1,3 @@
+[submodule "test/react-graph-vis"]
+	path = test/react-graph-vis
+	url = https://github.com/ishiyeahman/react-graph-vis.git
